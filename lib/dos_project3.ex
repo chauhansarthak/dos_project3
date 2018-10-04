@@ -34,7 +34,9 @@ defmodule NodeServer do
   end
 
 end
-
+"""
+This is to test git from IntelliJ
+"""
 defmodule DOS_PROJECT3 do
   @moduledoc """
   Documentation for DOS_PROJECT3.
